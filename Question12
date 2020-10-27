@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Named Function
+    </h1>
+    <div>
+        This function is Named Function because it has a name for call it.
+         It is also called a Declared functions. And Declared function are not executed immediately. 
+         They are "saved for later use", and will be executed later, when they are invoked (called upon).
+
+    </div>
+    <script>
+        function display() 
+        { 
+            document.writeln("Named Function"); 
+        } 
+        display(); 
+//Output Named Function    
+    </script>
+</body>
+</html>
