@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>How to empty an Array in JavaScript?</title>
+</head>
+<body>
+		<script type="text/javascript">
+var x = [1,3,4];
+		document.writeln("array : "+x);
+		x.length = 0;
+		document.writeln("array after empty: "+x);
+</script></body>
+</html>
